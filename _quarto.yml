@@ -15,6 +15,7 @@ book:
     - open-questions.qmd
     - collaboration-opportunities.qmd
     - methods-and-measures.qmd
+    - quartz-demo.qmd
     - part: "Ideas"
       chapters:
         - ideas/index.qmd

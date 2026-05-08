@@ -1,5 +1,8 @@
 name: Publish Quarto book
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   push:
     branches: [main]
@@ -20,12 +23,29 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: quartz-demo/package-lock.json
+
       - name: Render book
         run: quarto render
+
+      - name: Install Quartz dependencies
+        working-directory: quartz-demo
+        run: npm ci
+
+      - name: Build Quartz demo
+        working-directory: quartz-demo
+        run: npx quartz build -o ../_book/garden-demo
 
       - name: Set up GitHub Pages
         uses: actions/configure-pages@v5

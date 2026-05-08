@@ -10,5 +10,10 @@
 /_site/
 **/*.quarto_ipynb
 
+/quartz-demo/node_modules/
+/quartz-demo/public/
+/quartz-demo/.quartz-cache/
+/quartz-demo/tsconfig.tsbuildinfo
+
 .DS_Store
 Thumbs.db

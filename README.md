@@ -26,12 +26,18 @@ The rendered output goes to `_book/`, which is ignored by Git.
 
 This repository includes a GitHub Actions workflow at `.github/workflows/publish.yml`.
 
-On each push to `main`, the workflow renders the Quarto book and publishes the generated `_book/` output to GitHub Pages. In the GitHub repository settings, set Pages to deploy from GitHub Actions.
+On each push to `main`, the workflow renders the Quarto book, builds the small Quartz demo into `_book/garden-demo/`, and publishes the generated `_book/` output to GitHub Pages. In the GitHub repository settings, set Pages to deploy from GitHub Actions.
 
 The public URL should be:
 
 ```text
 https://rempsyc.github.io/research-ideas/
+```
+
+The Quartz demo should be available at:
+
+```text
+https://rempsyc.github.io/research-ideas/garden-demo/
 ```
 
 ## Adding a public idea
