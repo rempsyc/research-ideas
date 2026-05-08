@@ -1,0 +1,67 @@
+---
+title: "Idea template"
+status: "seed | developing | active | paused | archived"
+visibility: "private | shareable | public"
+maturity: "1-5"
+tags:
+  - template
+created: "YYYY-MM-DD"
+updated: "YYYY-MM-DD"
+related:
+  - example-related-idea
+---
+
+# Front matter
+
+Copy this front matter into a new idea page and replace the placeholder values.
+
+```yaml
+---
+title:
+status: seed | developing | active | paused | archived
+visibility: private | shareable | public
+maturity: 1-5
+tags:
+  -
+created:
+updated:
+related:
+  -
+---
+```
+
+# Core idea
+
+What is the simplest version of the idea?
+
+# Why it matters
+
+Why would this matter for theory, methods, practice, students, collaborators, or the public?
+
+# Research question
+
+What specific question could this idea answer?
+
+# Possible study design
+
+What design, sample, comparison, intervention, or analysis could test the idea?
+
+# Measures / data
+
+What measures, datasets, materials, or observations would be needed?
+
+# Collaborators / students
+
+Who might be a good fit for this idea, and what could they contribute?
+
+# Risks / limitations
+
+What could make the idea weak, infeasible, ethically complicated, or less interesting than it first appears?
+
+# Next action
+
+What is the smallest useful next step?
+
+# Related ideas
+
+What other notes, projects, papers, or constructs does this connect to?

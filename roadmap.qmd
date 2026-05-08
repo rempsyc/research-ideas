@@ -1,0 +1,21 @@
+# Roadmap
+
+This roadmap tracks the main directions this public idea book is meant to support. It is a living document rather than a promise that every idea listed here will become a project.
+
+## Near-term priorities
+
+- Clarify which research ideas are ready for student involvement.
+- Turn promising public notes into short project pages.
+- Identify reusable measures, study designs, and analysis workflows.
+- Connect ideas across social identity, polarization, prosociality, contemplative science, and AI.
+
+## Medium-term directions
+
+- Develop a small set of book-based intervention studies.
+- Organize identity-based approaches to polarization and public health.
+- Explore how AI can help generate, simulate, critique, and improve social psychological research.
+- Keep the site useful as an orientation tool for collaborators and students.
+
+## Maintenance rhythm
+
+Ideas should be updated when their status changes, when a next action is completed, or when a collaborator/student could reasonably pick up the thread.

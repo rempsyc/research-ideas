@@ -1,4 +1,6 @@
 # References {.unnumbered}
 
+References cited across the public idea book will appear here when pages include citations.
+
 ::: {#refs}
 :::

@@ -1,0 +1,9 @@
+# Projects
+
+Project pages describe larger areas of work. They are more concrete than idea pages and should help readers understand where a project is headed, what questions remain open, and where students or collaborators could contribute.
+
+## Current project areas
+
+- [Book interventions](book-interventions.qmd)
+- [Polarization interventions](polarization-interventions.qmd)
+- [AI simulations](ai-simulations.qmd)

@@ -1,0 +1,16 @@
+# AI and Society
+
+AI and society includes both methodological uses of AI in research and broader questions about how AI changes social life, cooperation, judgment, and knowledge production.
+
+## Current focus
+
+- AI-assisted research design
+- AI-supported reproducibility
+- Human-AI collaboration
+- Simulated responses and their limits
+- Social consequences of AI systems
+
+## Links to projects
+
+- [AI simulations](../projects/ai-simulations.qmd)
+- [Methods and measures](../methods-and-measures.qmd)

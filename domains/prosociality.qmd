@@ -1,0 +1,16 @@
+# Prosociality
+
+Prosociality includes motivation and behavior oriented toward helping, caring for, or cooperating with others.
+
+## Current focus
+
+- Empathy
+- Compassion
+- Helping motivation
+- Loving-kindness and other contemplative practices
+- Book-based and identity-based interventions
+
+## Links to projects
+
+- [Book interventions](../projects/book-interventions.qmd)
+- [Methods and measures](../methods-and-measures.qmd)

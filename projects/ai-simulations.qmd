@@ -1,0 +1,21 @@
+# AI Simulations
+
+This project area explores how artificial intelligence can support social psychological research while keeping human judgment, theory, and empirical validation at the center.
+
+## Core question
+
+How can AI help generate, critique, simulate, or improve research ideas without replacing empirical evidence or researcher accountability?
+
+## Possible uses
+
+- Generating candidate study materials
+- Stress-testing survey items
+- Simulating possible participant interpretations
+- Identifying unclear claims or missing limitations
+- Supporting reproducible analysis and documentation
+
+## Next actions
+
+- Define safe and useful AI roles in the research workflow.
+- Compare AI-generated materials with human-written materials.
+- Document cases where AI suggestions are helpful, misleading, or theoretically shallow.

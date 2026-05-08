@@ -1,0 +1,19 @@
+# Active Projects
+
+This page lists projects that are already underway or close enough to active development that students and collaborators may want a quick orientation.
+
+## Reading as intervention
+
+Popular nonfiction and psychology books may change how readers think, feel, and act toward others. This project area asks whether books can shift prosociality, polarization, empathy, motivation, or identity in measurable ways.
+
+## Identity-based polarization interventions
+
+Shared social identities may reduce affective polarization by changing how people understand political outgroups. This area connects social identity theory, public health, political psychology, and intervention design.
+
+## AI-assisted research simulations
+
+Artificial intelligence may help generate hypotheses, simulate study materials, stress-test research designs, or support reproducible workflows. The goal is to use AI as an assistant to human scientific judgment, not as a substitute for it.
+
+## Open science and data science tools
+
+Open, reproducible, and transparent workflows are part of the research program. This includes R-based tools, analytic robustness, multiverse analysis, outlier detection, and accessible methods guidance.

@@ -1,0 +1,15 @@
+# Developing Ideas
+
+Developing ideas have enough structure to discuss with collaborators or students, but they still need refinement before becoming active projects.
+
+## Reading-based intervention mechanisms
+
+Book interventions may work through multiple pathways: narrative transportation, self-reflection, new behavioral scripts, perceived social norms, or identity change. A useful next step is to compare these mechanisms in a single study.
+
+## Common ingroup identity and polarization
+
+Identity-based interventions may reduce hostility toward political outgroups when they make a shared identity salient, meaningful, and action-guiding. The challenge is to identify identities that feel authentic rather than imposed.
+
+## AI-supported study materials
+
+AI can help generate candidate messages, vignettes, or survey items, but those materials still need human review, theoretical grounding, and empirical validation.

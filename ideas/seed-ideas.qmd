@@ -1,0 +1,15 @@
+# Seed Ideas
+
+Seed ideas are early sparks. They may be useful, but they still need clearer mechanisms, measures, designs, or collaborators.
+
+## Books as social psychological interventions
+
+Can popular nonfiction books produce measurable changes in empathy, compassion, motivation, or polarization? Which reading experiences matter most: identification with examples, perceived practical usefulness, emotional engagement, or repeated reflection?
+
+## AI as a research design critic
+
+Can AI systems help researchers identify weak measures, missing manipulation checks, unclear causal claims, or overlooked alternative explanations before a study is preregistered?
+
+## Shared identity beyond politics
+
+Can nonpolitical shared identities create enough common ground to reduce political animosity without asking people to abandon meaningful group commitments?

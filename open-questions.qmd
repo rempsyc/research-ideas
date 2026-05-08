@@ -1,0 +1,26 @@
+# Open Questions
+
+Open questions are research problems that seem promising but are not yet fully scoped as projects.
+
+## Intervention questions
+
+- When do narrative, nonfiction, or psychology books produce durable psychological change?
+- Which parts of an intervention matter most: content, identification, practice, social context, or reflection?
+- Can brief interventions shift both attitudes and behavior, or do these require different mechanisms?
+
+## Identity and polarization questions
+
+- Which shared identities are broad enough to include political opponents but specific enough to feel meaningful?
+- When does emphasizing common identity reduce polarization, and when does it backfire?
+- How can identity-based approaches be adapted across countries, conflicts, or public health contexts?
+
+## Methods questions
+
+- How can AI be used to improve research design without laundering researcher assumptions?
+- Which measures best capture prosocial motivation, empathy, compassion, and social connection?
+- What should count as a meaningful effect in public-facing psychological interventions?
+
+## Student-friendly questions
+
+- Which open questions can become honors theses, directed research projects, preregistered studies, or secondary-data analyses?
+- Which projects are small enough to complete in one semester but meaningful enough to contribute to a larger program?

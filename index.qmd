@@ -1,9 +1,22 @@
-# Preface {.unnumbered}
+# Welcome {.unnumbered}
 
-This is a Quarto book.
+This is a public research idea garden maintained by [Rémi Thériault](https://remi-theriault.com/), a social psychology postdoctoral fellow at New York University.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+The purpose of this site is to make early-stage and developing research ideas easier to find, discuss, improve, and eventually turn into projects. It is written primarily for students, collaborators, and researchers who are interested in social identity, polarization, prosocial behavior, contemplative science, open science, and data science.
 
-```{r}
-1 + 1
-```
+The ideas here are public by design. Raw or private ideas live elsewhere.
+
+## How to use this site
+
+- Start with the [roadmap](roadmap.qmd) for the current direction of travel.
+- Browse [active projects](active-projects.qmd) for work that is already underway.
+- Visit [open questions](open-questions.qmd) for problems that could become studies, papers, or student projects.
+- Use [collaboration opportunities](collaboration-opportunities.qmd) to identify places where a student or collaborator could contribute.
+
+## Research orientation
+
+My research asks how psychological interventions can transform the way people relate to themselves, other people, groups, and society. Current interests include reducing political polarization through shared social identities, studying popular nonfiction books as interventions, using artificial intelligence to simulate and support social psychological research, and improving open and reproducible research workflows.
+
+## Contact
+
+For contact information and background, see my main website: <https://remi-theriault.com/>.
