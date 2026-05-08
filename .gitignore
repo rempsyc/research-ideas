@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.positai
+.Renviron
+
+/.quarto/
+/_book/
+/_site/
+**/*.quarto_ipynb
+
+.DS_Store
+Thumbs.db
