@@ -45,7 +45,7 @@ jobs:
 
       - name: Build Quartz demo
         working-directory: quartz-demo
-        run: npx quartz build -o ../_book/garden-demo
+        run: npx quartz build -d ../garden -o ../_book/garden-demo
 
       - name: Set up GitHub Pages
         uses: actions/configure-pages@v5

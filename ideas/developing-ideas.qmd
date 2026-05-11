@@ -13,3 +13,15 @@ Identity-based interventions may reduce hostility toward political outgroups whe
 ## AI-supported study materials
 
 AI can help generate candidate messages, vignettes, or survey items, but those materials still need human review, theoretical grounding, and empirical validation.
+
+## Effortless prosociality and cognitive habits
+
+Prosocial behavior may become more reliable when it is supported by internalized values and automatic cognitive habits rather than only effortful self-control. A useful research program would test whether compassion, loving-kindness, or moral training changes behavior especially under low-control conditions.
+
+## Dreams as low-control observation
+
+Dreams may offer an exploratory window into automatic tendencies when waking self-control is reduced. This idea is not about blaming people for dream content, but about whether changes in dream behavior could help track internalization or moral habit formation.
+
+## Dream behavior and waking behavior
+
+Dream diaries could be used to test whether behavior in dream situations corresponds to waking behavior, implicit attitudes, or behavior under low-control conditions. A first mature version would focus on aggression or prosocial behavior because those domains have existing implicit, explicit, other-report, and behavioral measures.

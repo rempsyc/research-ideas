@@ -26,7 +26,7 @@ The rendered output goes to `_book/`, which is ignored by Git.
 
 This repository includes a GitHub Actions workflow at `.github/workflows/publish.yml`.
 
-On each push to `main`, the workflow renders the Quarto book, builds the small Quartz demo into `_book/garden-demo/`, and publishes the generated `_book/` output to GitHub Pages. In the GitHub repository settings, set Pages to deploy from GitHub Actions.
+On each push to `main`, the workflow renders the Quarto book, builds the small Quartz demo from the same `garden/` Markdown notes into `_book/garden-demo/`, and publishes the generated `_book/` output to GitHub Pages. In the GitHub repository settings, set Pages to deploy from GitHub Actions.
 
 The public URL should be:
 
@@ -47,6 +47,12 @@ https://rempsyc.github.io/research-ideas/garden-demo/
 3. Fill in the front matter and sections.
 4. Add the page to `_quarto.yml` if it should appear in the public book navigation.
 
+## Adding a garden note
+
+Add public exploratory Markdown notes to `garden/`. Use `quartz: true` in the note front matter to include the note in the Quartz graph demo, or `quartz: false` to keep it out of the Quartz build.
+
 ## License
 
-Unless otherwise noted, the written content in this repository is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
+Unless otherwise noted, the written research content in this repository is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
+
+The `quartz-demo/` folder includes vendored Quartz software code, which is MIT-licensed. That software license is separate from the CC BY 4.0 license for the research notes and Quarto content.

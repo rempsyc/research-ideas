@@ -1,5 +1,6 @@
 ---
 title: Common ingroup identity
+quartz: true
 tags:
   - social-identity
   - polarization

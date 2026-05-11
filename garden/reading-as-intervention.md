@@ -1,5 +1,6 @@
 ---
 title: Reading as intervention
+quartz: true
 tags:
   - books
   - prosociality

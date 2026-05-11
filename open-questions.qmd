@@ -19,6 +19,31 @@ Open questions are research problems that seem promising but are not yet fully s
 - How can AI be used to improve research design without laundering researcher assumptions?
 - Which measures best capture prosocial motivation, empathy, compassion, and social connection?
 - What should count as a meaningful effect in public-facing psychological interventions?
+- Can self-report quality be improved by training introspection, attention, or emotional labeling?
+- When does increased confidence in introspection reflect accuracy rather than narrative coherence?
+- Does breath-focused attention increase or decrease creative fluency when people can pause to record ideas?
+- Can mapping a domain's boundaries improve learning or mastery beyond ordinary study?
+
+## Attention and contemplative science questions
+
+- Can meditation reduce thought-suppression rebound effects, or does it change the relationship to unwanted thoughts?
+- Are meditators less susceptible to attentional misdirection, or are magic effects robust even under trained attention?
+- Does mind wandering consume resources that could otherwise support self-regulation?
+- Can directed attention modulate bodily processes such as warmth, urge, or reflex-like responses?
+- What happens when people are instructed to mind-wander on command?
+
+## Agency, identity, and social change questions
+
+- Can agency messages be empowering without making people feel blamed for suffering?
+- Is a sense of progress psychologically distinct from competence, autonomy, or hope?
+- Can identity expansion increase prosocial action without becoming vague or inattentive to structural problems?
+- How much of personality expression depends on salient, believed-in identity?
+- Can values change deeply, and what role do identity-safe contexts play in that change?
+- Can placebo-like expectation effects connect identity, suggestion, ritual, and self-fulfilling prophecy?
+- When does prejudice depend on self-control resources, and when does internalized motivation make regulation more automatic?
+- Which small interventions are robust enough to scale in democracy, sustainability, prosociality, or prejudice reduction?
+- Can prosocial responses become trained cognitive habits rather than effortful self-control achievements?
+- Can dreams, low-control states, or private behavior help distinguish internalized moral change from impression management?
 
 ## Student-friendly questions
 

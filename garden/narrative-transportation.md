@@ -1,5 +1,6 @@
 ---
 title: Narrative transportation
+quartz: true
 tags:
   - books
   - intervention

@@ -10,6 +10,7 @@ This page collects recurring methodological ideas, measures, datasets, and analy
 - Secondary data analysis
 - Multiverse and robustness analyses
 - Open materials, code, and data where possible
+- Dream diaries and dream-content coding
 
 ## Constructs
 
@@ -27,3 +28,7 @@ Analyses should be reproducible, readable, and easy to rerun. When possible, pro
 ## Measure notes
 
 Measure-specific notes can begin here and later move into dedicated idea or project pages when they become central to a study.
+
+## Dream methods
+
+Dream diary projects need especially careful attention to recall instructions, minimum report length, coding reliability, participant burden, and incentives. Dream behavior should be interpreted as exploratory evidence about automatic tendencies, not as direct moral evidence about the person.

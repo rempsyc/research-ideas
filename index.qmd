@@ -6,9 +6,14 @@ The purpose of this site is to make early-stage and developing research ideas ea
 
 The ideas here are public by design. Raw or private ideas live elsewhere.
 
+## Explore the graph
+
+The most networked version of this site is the [Quartz garden demo](quartz-demo.qmd). It turns selected Markdown notes into a graph view with backlinks, wiki-style links, and note-to-note navigation.
+
 ## How to use this site
 
 - Start with the [roadmap](roadmap.qmd) for the current direction of travel.
+- Explore the [Quartz garden demo](quartz-demo.qmd) to see the idea graph.
 - Browse [active projects](active-projects.qmd) for work that is already underway.
 - Visit [open questions](open-questions.qmd) for problems that could become studies, papers, or student projects.
 - Use [collaboration opportunities](collaboration-opportunities.qmd) to identify places where a student or collaborator could contribute.
