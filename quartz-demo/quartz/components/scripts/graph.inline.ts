@@ -31,6 +31,7 @@ type NodeData = {
   id: SimpleSlug
   text: string
   tags: string[]
+  noteType?: string
 } & SimulationNodeDatum
 
 type SimpleLinkData = {
@@ -149,6 +150,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       id: url,
       text,
       tags: data.get(url)?.tags ?? [],
+      noteType: data.get(url)?.type,
     }
   })
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
@@ -193,16 +195,22 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
+  const typeColors: Record<string, string> = {
+    idea: "#4c78a8",
+    project: "#f58518",
+    publication: "#54a24b",
+    essay: "#b279a2",
+    map: "#72b7b2",
+    domain: "#e45756",
+  }
+
   // calculate color
   const color = (d: NodeData) => {
-    const isCurrent = d.id === slug
-    if (isCurrent) {
-      return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+    if (d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
-    } else {
-      return computedStyleMap["--gray"]
     }
+
+    return typeColors[d.noteType ?? ""] ?? computedStyleMap["--gray"]
   }
 
   function nodeRadius(d: NodeData) {

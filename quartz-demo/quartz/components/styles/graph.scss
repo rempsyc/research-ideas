@@ -6,6 +6,59 @@
     margin: 0;
   }
 
+  & > .graph-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 0.6rem;
+    margin: 0.35rem 0 0.5rem;
+    color: var(--darkgray);
+    font-size: 0.75rem;
+    line-height: 1.2;
+
+    & > span {
+      align-items: center;
+      display: inline-flex;
+      gap: 0.25rem;
+      white-space: nowrap;
+    }
+
+    .legend-dot {
+      border-radius: 50%;
+      display: inline-block;
+      height: 0.55rem;
+      width: 0.55rem;
+
+      &.idea {
+        background: #4c78a8;
+      }
+
+      &.project {
+        background: #f58518;
+      }
+
+      &.publication {
+        background: #54a24b;
+      }
+
+      &.essay {
+        background: #b279a2;
+      }
+
+      &.map {
+        background: #72b7b2;
+      }
+
+      &.domain {
+        background: #e45756;
+      }
+
+      &.tag {
+        background: transparent;
+        border: 1px solid var(--tertiary);
+      }
+    }
+  }
+
   & > .graph-outer {
     border-radius: 5px;
     border: 1px solid var(--lightgray);

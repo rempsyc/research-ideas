@@ -66,6 +66,15 @@ export default ((opts?: Partial<GraphOptions>) => {
     return (
       <div class={classNames(displayClass, "graph")}>
         <h3>{i18n(cfg.locale).components.graph.title}</h3>
+        <div class="graph-legend" aria-label="Graph color legend">
+          <span><i class="legend-dot idea"></i>Idea</span>
+          <span><i class="legend-dot project"></i>Project</span>
+          <span><i class="legend-dot publication"></i>Publication</span>
+          <span><i class="legend-dot essay"></i>Essay</span>
+          <span><i class="legend-dot map"></i>Map</span>
+          <span><i class="legend-dot domain"></i>Domain</span>
+          <span><i class="legend-dot tag"></i>#Tag</span>
+        </div>
         <div class="graph-outer">
           <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
           <button class="global-graph-icon" aria-label="Global Graph">
