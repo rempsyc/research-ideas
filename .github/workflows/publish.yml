@@ -1,8 +1,5 @@
 name: Publish Quartz garden
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 on:
   push:
     branches: [main]
@@ -39,7 +36,7 @@ jobs:
 
       - name: Build Quartz garden
         working-directory: quartz-demo
-        run: npx quartz build -d ../garden -o ../_site
+        run: node ./quartz/bootstrap-cli.mjs build -d ../garden -o ../_site
 
       - name: Set up GitHub Pages
         uses: actions/configure-pages@v5

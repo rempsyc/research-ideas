@@ -42,7 +42,7 @@ if (!dir.exists("node_modules")) {
   }
 }
 
-args <- c("quartz", "build", "-d", garden_dir)
+args <- c("./quartz/bootstrap-cli.mjs", "build", "-d", garden_dir)
 
 if (serve) {
   args <- c(args, "--serve")
@@ -52,7 +52,7 @@ if (serve) {
   message("Building site to: ", site_dir)
 }
 
-status <- system2("npx", args)
+status <- system2("node", args)
 
 if (!identical(status, 0L)) {
   stop("Quartz build failed. Check the RStudio Console for details.")
