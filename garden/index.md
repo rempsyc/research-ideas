@@ -1,23 +1,36 @@
 ---
-title: Research Ideas Garden Demo
+title: Research Ideas
 quartz: true
 ---
 
-# Research Ideas Garden Demo
+# Research Ideas
 
-This is a small Quartz demo built from the Markdown notes in the public `garden/` folder.
+This is a public research idea garden maintained by [Rémi Thériault](https://remi-theriault.com/). It archives short, public research notes, study ideas, open questions, methods, and conceptual links.
 
-Quartz is useful for a more networked digital-garden experience: graph view, backlinks, wiki-style links, popover previews, and Obsidian-flavored Markdown.
+The garden is meant for students, collaborators, and curious readers who want to see ideas while they are still forming. Private or raw ideas live elsewhere.
 
-The main Quarto book remains the polished public site. This Quartz demo is a sidecar for exploring how notes might feel as a graph.
+## Start here
 
-Start with:
+- [[roadmap]]
+- [[active-project-areas]]
+- [[for-students-and-collaborators]]
+- [[methods-and-measures]]
+
+## Main domains
+
+- [[attention-and-meditation]]
+- [[dreams-and-low-control-states]]
+- [[self-identity-and-agency]]
+- [[social-change-and-prosociality]]
+- [[polarization-and-prejudice]]
+
+## Original seed notes
 
 - [[reading-as-intervention]]
 - [[narrative-transportation]]
 - [[common-ingroup-identity]]
 
-## Newly curated rough ideas
+## Curated rough ideas
 
 These notes came from an initial backlog of rough, long-running research ideas. They have been rewritten as public-facing, studyable research notes rather than preserved as raw fragments.
 

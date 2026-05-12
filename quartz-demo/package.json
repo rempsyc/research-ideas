@@ -1,6 +1,6 @@
 {
-  "name": "research-ideas-quartz-demo",
-  "description": "Small Quartz sidecar demo for the research ideas site",
+  "name": "research-ideas-quartz-site",
+  "description": "Quartz site for the public research ideas garden",
   "private": true,
   "version": "4.5.2",
   "type": "module",

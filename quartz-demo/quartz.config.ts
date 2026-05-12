@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Research Ideas Garden Demo",
+    pageTitle: "Research Ideas",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "rempsyc.github.io/research-ideas/garden-demo",
+    baseUrl: "rempsyc.github.io/research-ideas",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

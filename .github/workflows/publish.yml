@@ -1,4 +1,4 @@
-name: Publish Quarto book
+name: Publish Quartz garden
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -26,9 +26,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
@@ -36,16 +33,13 @@ jobs:
           cache: npm
           cache-dependency-path: quartz-demo/package-lock.json
 
-      - name: Render book
-        run: quarto render
-
       - name: Install Quartz dependencies
         working-directory: quartz-demo
         run: npm ci
 
-      - name: Build Quartz demo
+      - name: Build Quartz garden
         working-directory: quartz-demo
-        run: npx quartz build -d ../garden -o ../_book/garden-demo
+        run: npx quartz build -d ../garden -o ../_site
 
       - name: Set up GitHub Pages
         uses: actions/configure-pages@v5
@@ -53,7 +47,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _book
+          path: _site
 
   deploy:
     needs: build

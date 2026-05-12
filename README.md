@@ -2,31 +2,34 @@
 
 This repository is a public, version-controlled research idea garden maintained by [Rémi Thériault](https://remi-theriault.com/).
 
-The main output is a Quarto book for students, collaborators, and interested readers. The book organizes public ideas, active projects, open questions, methods, and collaboration opportunities.
+The main output is a Quartz digital garden for students, collaborators, and interested readers. The garden organizes public ideas, open questions, methods, and conceptual links as short Markdown notes.
 
 ## Workflow
 
-- Quarto is the polished, shareable research book.
-- The `garden/` folder is a lightweight Markdown note area that could later be adapted for Quartz or Obsidian-style workflows.
+- Quartz is the public research garden.
+- The `garden/` folder is the single source of truth for public notes.
 - Git commit history provides versioning and timestamps.
-- Public pages should include only shareable material.
+- Notes can use wiki-style links, tags, backlinks, and the graph view.
+- Public notes should include only shareable material.
 - Private or raw ideas should remain outside this repository, such as in personal OneNote.
 
 ## Local rendering
 
-Render the book from the repository root:
+Build the garden from the repository root:
 
 ```powershell
-quarto render
+cd quartz-demo
+npm ci
+npx quartz build -d ../garden -o ../_site
 ```
 
-The rendered output goes to `_book/`, which is ignored by Git.
+The rendered output goes to `_site/`, which is ignored by Git.
 
 ## Publishing
 
 This repository includes a GitHub Actions workflow at `.github/workflows/publish.yml`.
 
-On each push to `main`, the workflow renders the Quarto book, builds the small Quartz demo from the same `garden/` Markdown notes into `_book/garden-demo/`, and publishes the generated `_book/` output to GitHub Pages. In the GitHub repository settings, set Pages to deploy from GitHub Actions.
+On each push to `main`, the workflow builds the Quartz garden from the `garden/` Markdown notes and publishes the generated `_site/` output to GitHub Pages. In the GitHub repository settings, set Pages to deploy from GitHub Actions.
 
 The public URL should be:
 
@@ -34,25 +37,25 @@ The public URL should be:
 https://rempsyc.github.io/research-ideas/
 ```
 
-The Quartz demo should be available at:
-
-```text
-https://rempsyc.github.io/research-ideas/garden-demo/
-```
-
-## Adding a public idea
-
-1. Copy `ideas/template.qmd`.
-2. Rename the copy with a short, descriptive file name.
-3. Fill in the front matter and sections.
-4. Add the page to `_quarto.yml` if it should appear in the public book navigation.
-
 ## Adding a garden note
 
-Add public exploratory Markdown notes to `garden/`. Use `quartz: true` in the note front matter to include the note in the Quartz graph demo, or `quartz: false` to keep it out of the Quartz build.
+Add public exploratory Markdown notes to `garden/`. Use `quartz: true` in the note front matter to include the note in the Quartz graph, or `quartz: false` to keep it out of the Quartz build.
+
+Example:
+
+```yaml
+---
+title: Example idea
+quartz: true
+status: seed
+maturity: 2
+tags:
+  - attention
+---
+```
 
 ## License
 
 Unless otherwise noted, the written research content in this repository is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
 
-The `quartz-demo/` folder includes vendored Quartz software code, which is MIT-licensed. That software license is separate from the CC BY 4.0 license for the research notes and Quarto content.
+The `quartz-demo/` folder includes vendored Quartz software code, which is MIT-licensed. That software license is separate from the CC BY 4.0 license for the research notes.

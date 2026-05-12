@@ -1,11 +1,11 @@
-# Quartz Demo
+# Quartz Site
 
-This folder contains a small Quartz 4 sidecar demo for the public research ideas site.
+This folder contains the Quartz 4 site generator used to publish the public research ideas garden.
 
-The main Quarto book remains the canonical published site. This demo builds the Markdown files in the repository-level `garden/` folder into a graph-oriented Quartz site that is deployed under:
+The Markdown files in the repository-level `garden/` folder are the source notes. Quartz builds those notes into the public site deployed under:
 
 ```text
-https://rempsyc.github.io/research-ideas/garden-demo/
+https://rempsyc.github.io/research-ideas/
 ```
 
 ## Local build

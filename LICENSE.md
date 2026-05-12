@@ -16,6 +16,6 @@ Suggested attribution:
 
 Software code, configuration, and third-party tooling may be covered by their own licenses.
 
-In particular, the `quartz-demo/` folder includes a small vendored Quartz demo. Quartz is software licensed under the MIT License, and its license notice is retained in `quartz-demo/LICENSE.txt`.
+In particular, the `quartz-demo/` folder includes vendored Quartz software. Quartz is software licensed under the MIT License, and its license notice is retained in `quartz-demo/LICENSE.txt`.
 
 The presence of MIT-licensed Quartz code does not change the license for the written research content in this repository.
