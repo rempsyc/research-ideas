@@ -38,7 +38,22 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      mapFn: (node) => {
+        const folderNames: Record<string, string> = {
+          domains: "Domains",
+          essays: "Essays",
+          ideas: "Ideas",
+          maps: "Maps",
+          projects: "Projects",
+          publications: "Publications",
+        }
+
+        if (node.isFolder && node.slugSegment) {
+          node.displayName = folderNames[node.slugSegment] ?? node.displayName
+        }
+      },
+    }),
   ],
   right: [
     Component.Graph({
@@ -76,7 +91,22 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      mapFn: (node) => {
+        const folderNames: Record<string, string> = {
+          domains: "Domains",
+          essays: "Essays",
+          ideas: "Ideas",
+          maps: "Maps",
+          projects: "Projects",
+          publications: "Publications",
+        }
+
+        if (node.isFolder && node.slugSegment) {
+          node.displayName = folderNames[node.slugSegment] ?? node.displayName
+        }
+      },
+    }),
   ],
   right: [],
 }
