@@ -1,6 +1,8 @@
 ---
 title: Research Ideas
 quartz: true
+type: map
+visibility: public
 ---
 
 # Research Ideas
@@ -15,6 +17,10 @@ The garden is meant for students, collaborators, and curious readers who want to
 - [[active-project-areas]]
 - [[for-students-and-collaborators]]
 - [[methods-and-measures]]
+- [Ideas](ideas/)
+- [Projects](projects/)
+- [Publications](publications/)
+- [Essays](essays/)
 
 ## Main domains
 

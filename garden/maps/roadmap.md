@@ -1,6 +1,8 @@
 ---
 title: Roadmap
 quartz: true
+type: map
+visibility: public
 status: active
 maturity: 3
 tags:
@@ -25,7 +27,35 @@ This roadmap tracks the main directions this public research garden is meant to 
 - Organize identity-based approaches to polarization and public health.
 - Explore how AI can help generate, simulate, critique, and improve social psychological research.
 - Build a useful public archive of research ideas without forcing them into a book structure too early.
+- Consider whether the garden should eventually distinguish ideas, current projects, and publications as separate layers or graph views.
 
 ## Maintenance rhythm
 
 Notes should be updated when their status changes, when a next action is completed, or when a student or collaborator could reasonably pick up the thread.
+
+## Future site architecture
+
+One future option is to represent three stages of the research pipeline:
+
+- ideas
+- current projects
+- publications
+
+For now, the simplest path is to keep one Quartz site and add metadata such as `type: idea`, `type: project`, or `type: publication` when those layers become useful. Later, the site could either filter the graph by type or publish separate sub-sites for each layer.
+
+## Metadata convention
+
+Use `type` to distinguish layers:
+
+- `type: idea` for early-stage and developing ideas.
+- `type: project` for current projects, studies, materials, and collaborations.
+- `type: publication` for published papers, preprints, datasets, talks, and outputs.
+- `type: essay` for blog posts, public reflections, and conceptual writing.
+- `type: map` for orientation pages.
+- `type: domain` for topical entry points.
+
+Use `visibility` to distinguish public prominence:
+
+- `visibility: public` for pages that can be actively advertised.
+- `visibility: quiet-public` for public notes that are available in the garden but not necessarily promoted.
+- `visibility: private` should not be committed to this public repository.

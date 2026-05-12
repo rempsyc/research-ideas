@@ -1,6 +1,8 @@
 ---
 title: For students and collaborators
 quartz: true
+type: map
+visibility: public
 status: active
 maturity: 3
 tags:

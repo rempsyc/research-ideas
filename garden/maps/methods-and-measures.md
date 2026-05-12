@@ -1,6 +1,8 @@
 ---
 title: Methods and measures
 quartz: true
+type: map
+visibility: public
 status: active
 maturity: 3
 tags:

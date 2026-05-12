@@ -1,6 +1,8 @@
 ---
 title: Active project areas
 quartz: true
+type: map
+visibility: public
 status: active
 maturity: 3
 tags:

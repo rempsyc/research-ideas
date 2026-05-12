@@ -47,12 +47,16 @@ Example:
 ---
 title: Example idea
 quartz: true
+type: idea
+visibility: quiet-public
 status: seed
 maturity: 2
 tags:
   - attention
 ---
 ```
+
+Use `type: project` for current project notes, `type: publication` for publication notes, and `type: essay` for blog posts or public reflections. Use `visibility: public` for pages you would actively link from your main website, and `visibility: quiet-public` for public notes that are discoverable but less advertised.
 
 ## License
 

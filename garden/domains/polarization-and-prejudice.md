@@ -1,6 +1,8 @@
 ---
 title: Polarization and prejudice
 quartz: true
+type: domain
+visibility: public
 status: active
 maturity: 3
 tags:

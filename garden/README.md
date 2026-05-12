@@ -1,6 +1,8 @@
 ---
 title: Garden notes README
 quartz: false
+type: documentation
+visibility: public
 ---
 
 # Garden Notes
@@ -13,7 +15,7 @@ All content committed here should be public-safe. Private or raw ideas should re
 
 ## Quartz publishing
 
-Notes can control whether they appear in the Quartz demo with the `quartz` front matter field:
+Notes can control whether they appear in the Quartz site with the `quartz` front matter field:
 
 ```yaml
 ---
