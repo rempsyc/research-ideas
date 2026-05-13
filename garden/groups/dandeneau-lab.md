@@ -23,4 +23,5 @@ The Dandeneau Lab at UQAM is the main group context for projects connected to at
 
 ## Related publications
 
+- [[unmet-expectations-social-inclusion]]
 - [[mindfulness-aggressive-behaviour]]

@@ -23,5 +23,8 @@ The Raz Lab at McGill is the main group context for projects connected to placeb
 
 ## Related publications
 
+- [[suggestibility-and-placebo-follow-up]]
+- [[bronchial-challenge-testing-canada]]
 - [[rubber-hand-illusion-attention-embodiment]]
 - [[body-swapping-empathy]]
+- [[self-concept-clarity-and-bodily-self]]

@@ -26,3 +26,4 @@ easystats is the main software-community context for the R package projects in t
 
 - [[modelbased-joss]]
 - [[outliers-easystats]]
+- [[effect-sizes-categorical-data]]

@@ -24,5 +24,6 @@ No project is assigned here yet.
 ## Related publications
 
 - [[open-science-in-psychology]]
+- [[awareness-is-freedom-book-review]]
 - [[lavaanextra-joss]]
 - [[rempsyc-joss]]

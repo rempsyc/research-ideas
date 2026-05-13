@@ -20,3 +20,6 @@ The Vallerand Lab is the main group context for self-help, passion, and growth-o
 
 - [[growth-orientation-and-self-help]]
 
+## Related publications
+
+- [[positive-psychology-of-passion]]
