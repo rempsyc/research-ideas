@@ -4,23 +4,36 @@ quartz: true
 type: map
 visibility: public
 status: active
-maturity: 1
+maturity: 2
 tags:
   - map
   - essays
+  - blog
 ---
 
 # Essays
 
-Essays, blog posts, and reflective writing connected to the research garden.
+Essays, blog posts, and reflective writing that connect to the research garden. These are not all research ideas, but many of them preserve useful conceptual background.
 
-Essay notes can use:
+## Research-adjacent essays
 
-```yaml
-type: essay
-visibility: public
-status: published
-date: YYYY-MM-DD
-```
+- [[time-management-self-monitoring]]
+- [[are-you-in-control]]
+- [[hypnosis-clinical-interventions]]
+- [[yoga-spirituality-research]]
 
-Essays are more polished than seed notes and less formal than papers.
+## Self, motivation, and growth
+
+- [[intuition-deep-listening]]
+- [[student-success-series]]
+- [[soi-big-five-personal-transformation]]
+- [[the-secret-motivational-framework]]
+- [[how-i-became-intelligent]]
+- [[do-you-know-your-eq]]
+
+## Spirituality and philosophy
+
+- [[new-age-movement]]
+- [[buddhist-koans-language-transcendence]]
+- [[quest-for-meaning]]
+- [[nature-of-reality-simplification]]
