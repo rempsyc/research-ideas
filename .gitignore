@@ -4,16 +4,15 @@
 .Ruserdata
 .positai
 .Renviron
-
 /.quarto/
 /_book/
 /_site/
 **/*.quarto_ipynb
-
 /quartz-demo/node_modules/
 /quartz-demo/public/
 /quartz-demo/.quartz-cache/
 /quartz-demo/tsconfig.tsbuildinfo
-
 .DS_Store
 Thumbs.db
+/Current projects/
+/Papers/

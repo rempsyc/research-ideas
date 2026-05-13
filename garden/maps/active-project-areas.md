@@ -18,7 +18,13 @@ These are project areas that currently give structure to the garden.
 
 Popular nonfiction and psychology books may change how readers think, feel, and act toward others. This area asks whether books can shift prosociality, polarization, empathy, motivation, identity, or behavior.
 
-See [[reading-as-intervention]] and [[narrative-transportation]].
+See [[book-interventions-and-reading-selection]], [[nonfiction-meta-reanalysis]], [[reading-as-intervention]], and [[narrative-transportation]].
+
+## Meditation, self-help, and internalized change
+
+Meditation and self-help interventions may matter most when they shift automatic tendencies, self-regulation, identity, or social behavior in durable ways.
+
+See [[loving-kindness-meditation-intervention]], [[growth-orientation-and-self-help]], and [[effortless-prosociality-and-cognitive-habits]].
 
 ## Identity-based polarization interventions
 
@@ -31,6 +37,18 @@ See [[common-ingroup-identity]], [[self-control-and-prejudice]], and [[identity-
 Dreams, private behavior, cognitive load, stress, intoxication, fatigue, and other low-control contexts may help distinguish effortful regulation from internalized tendencies.
 
 See [[dream-behavior-and-waking-behavior]], [[dreams-as-low-control-observation]], and [[effortless-prosociality-and-cognitive-habits]].
+
+## Research software and open science
+
+Some projects are not intervention studies but infrastructure for more transparent, reproducible, and readable behavioral science.
+
+See [[report-r-package]], [[easystats-meta-package]], [[missing-majority-dashboard]], and [[team-science-reproducibility-and-ai]].
+
+## Health, embodiment, and belief
+
+Projects around placebo, body ownership, EEG, and attention connect social cognition to embodied experience.
+
+See [[asthma-placebo]], [[rubber-hand-eeg]], [[video-attention-training-and-self-esteem]], and [[placebo-belief-and-social-psychology]].
 
 ## Wise interventions and social change
 

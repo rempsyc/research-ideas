@@ -198,7 +198,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const typeColors: Record<string, string> = {
     idea: "#4c78a8",
     project: "#f58518",
-    publication: "#54a24b",
+    publication: "#7b2cbf",
     essay: "#b279a2",
     map: "#72b7b2",
     domain: "#e45756",

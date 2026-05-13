@@ -12,20 +12,29 @@ tags:
 
 # Current projects
 
-This section will hold public notes about current projects, studies, collaborations, materials, and roadmaps.
+This section holds public, curated project notes. The goal is consolidation: one canonical note per project family, with links to ideas, preprints, preregistrations, software, or publications added when they become publicly useful.
 
-For now, most content in the garden is still `type: idea`. As current projects are added, they can use:
+## Active
 
-```yaml
-type: project
-visibility: quiet-public
-status: active
-```
+- [[book-interventions-and-reading-selection]]
+- [[loving-kindness-meditation-intervention]]
+- [[nonfiction-meta-reanalysis]]
+- [[missing-majority-dashboard]]
+- [[report-r-package]]
+- [[easystats-meta-package]]
+- [[team-science-reproducibility-and-ai]]
 
-Useful idea notes that may become projects:
+## Paused or standby
+
+- [[growth-orientation-and-self-help]]
+- [[video-attention-training-and-self-esteem]]
+- [[robust-mahalanobis-distance]]
+- [[asthma-placebo]]
+- [[rubber-hand-eeg]]
+
+## Idea notes that may become projects
 
 - [[dream-behavior-and-waking-behavior]]
 - [[self-control-and-prejudice]]
 - [[breath-focus-and-creativity]]
-- [[mapping-as-metacognitive-practice]]
 - [[identity-based-voter-turnout]]

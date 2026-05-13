@@ -36,6 +36,15 @@ The garden is meant for students, collaborators, and curious readers who want to
 - [[narrative-transportation]]
 - [[common-ingroup-identity]]
 
+## Current project hubs
+
+- [[book-interventions-and-reading-selection]]
+- [[loving-kindness-meditation-intervention]]
+- [[nonfiction-meta-reanalysis]]
+- [[growth-orientation-and-self-help]]
+- [[missing-majority-dashboard]]
+- [[team-science-reproducibility-and-ai]]
+
 ## Curated rough ideas
 
 These notes came from an initial backlog of rough, long-running research ideas. They have been rewritten as public-facing, studyable research notes rather than preserved as raw fragments.
