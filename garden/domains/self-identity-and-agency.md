@@ -10,6 +10,8 @@ tags:
   - self
   - identity
   - agency
+  - motivation
+  - belief
 ---
 
 # Self, identity, and agency

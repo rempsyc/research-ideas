@@ -8,6 +8,9 @@ maturity: 3
 tags:
   - map
   - roadmap
+  - research-garden
+  - workflow
+  - curation
 ---
 
 # Roadmap

@@ -19,6 +19,8 @@ This project asks whether carefully selected nonfiction books can function as ps
 
 Current work includes refining the study design, consulting experts on book selection, preparing pilot materials, running AI-assisted simulations of possible participant responses, and moving toward preregistration.
 
+Main group: [[van-bavel-lab]].
+
 ## Current status
 
 - IRB approval and amendments are in progress.
@@ -32,4 +34,3 @@ Current work includes refining the study design, consulting experts on book sele
 - [[narrative-transportation]]
 - [[common-ingroup-identity]]
 - [[identity-expansion-and-social-change]]
-

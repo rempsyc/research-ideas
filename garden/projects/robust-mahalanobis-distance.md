@@ -17,6 +17,8 @@ This project focuses on Minimum Covariance Determinant as a robust version of Ma
 
 The project appears to be technically advanced but writing-limited: simulations have been run, and an almost-draft exists, but the manuscript still needs to be completed.
 
+Main group: [[easystats]].
+
 ## Current status
 
 - Simulations are done.
@@ -26,4 +28,3 @@ The project appears to be technically advanced but writing-limited: simulations 
 ## Related ideas
 
 - [[mapping-as-metacognitive-practice]]
-

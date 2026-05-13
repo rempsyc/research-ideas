@@ -17,6 +17,8 @@ This project examines EEG data collected during the rubber hand illusion. It con
 
 The project has collected data and student thesis material, but the data need a full reanalysis before the manuscript can be rewritten.
 
+Main group: [[raz-lab]].
+
 ## Current status
 
 - Data have been collected.
@@ -27,4 +29,3 @@ The project has collected data and student thesis material, but the data need a 
 
 - [[belief-identity-and-personality]]
 - [[self-identification-to-thoughts]]
-

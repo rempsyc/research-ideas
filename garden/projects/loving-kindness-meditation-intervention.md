@@ -18,6 +18,8 @@ This project develops the PhD meditation and self-help book intervention work in
 
 The current task is to reshape the thesis material into a tighter article format and decide whether additional analyses are needed.
 
+Main group: [[dandeneau-lab]].
+
 ## Current status
 
 - Thesis-based manuscript in preparation.
@@ -30,4 +32,3 @@ The current task is to reshape the thesis material into a tighter article format
 - [[meditation-and-thought-suppression]]
 - [[meditation-and-bystander-effect]]
 - [[mindfulness-and-interpersonal-perception]]
-

@@ -9,6 +9,8 @@ tags:
   - map
   - methods
   - measures
+  - study-design
+  - open-science
 ---
 
 # Methods and measures

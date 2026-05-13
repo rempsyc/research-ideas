@@ -18,6 +18,8 @@ This project supports the Missing Majority in Behavioural Science Data Dashboard
 
 The main public-facing output to add here later is a concise note linking the dashboard, the associated paper, and the broader research-software context.
 
+Main group: [[busara-center]].
+
 ## Current status
 
 - Dashboard development is active.
@@ -28,4 +30,3 @@ The main public-facing output to add here later is a concise note linking the da
 
 - [[values-change-and-social-transformation]]
 - [[wise-interventions-and-small-effects]]
-

@@ -14,6 +14,8 @@ tags:
 
 This section holds public, curated project notes. The goal is consolidation: one canonical note per project family, with links to ideas, preprints, preregistrations, software, or publications added when they become publicly useful.
 
+Project notes link to one main group where possible. See [Research groups](../groups/) for the lab and collaboration map.
+
 ## Active
 
 - [[book-interventions-and-reading-selection]]

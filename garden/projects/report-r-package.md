@@ -18,6 +18,8 @@ This project covers maintenance and manuscript work for the `report` R package, 
 
 The software maintenance load is substantial, and the manuscript already has a draft that could be revived and finished.
 
+Main group: [[easystats]].
+
 ## Current status
 
 - Package maintenance is ongoing.
@@ -27,4 +29,3 @@ The software maintenance load is substantial, and the manuscript already has a d
 ## Related ideas
 
 - [[mapping-as-metacognitive-practice]]
-

@@ -9,6 +9,8 @@ tags:
   - map
   - collaboration
   - students
+  - mentoring
+  - projects
 ---
 
 # For students and collaborators

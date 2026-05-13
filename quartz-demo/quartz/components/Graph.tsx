@@ -71,6 +71,7 @@ export default ((opts?: Partial<GraphOptions>) => {
           <span><i class="legend-dot project"></i>Project</span>
           <span><i class="legend-dot publication"></i>Publication</span>
           <span><i class="legend-dot essay"></i>Essay</span>
+          <span><i class="legend-dot group"></i>Group</span>
           <span><i class="legend-dot map"></i>Map</span>
           <span><i class="legend-dot domain"></i>Domain</span>
           <span><i class="legend-dot tag"></i>#Tag</span>

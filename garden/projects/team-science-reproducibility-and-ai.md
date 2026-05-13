@@ -18,6 +18,8 @@ This project area consolidates collaborative work around reproducibility, open s
 
 The goal of this page is not to duplicate every team-science manuscript, but to provide one public hub for collaborations that connect to research transparency, large-scale evidence, and the changing role of AI in scholarship.
 
+Main group: [[institute-for-replication]].
+
 ## Current status
 
 - Several team-science manuscripts are active or recently active.
@@ -28,4 +30,3 @@ The goal of this page is not to duplicate every team-science manuscript, but to 
 
 - [[wise-interventions-and-small-effects]]
 - [[mapping-as-metacognitive-practice]]
-

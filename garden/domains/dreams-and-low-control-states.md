@@ -9,6 +9,8 @@ tags:
   - domain
   - dreams
   - self-control
+  - low-control-states
+  - morality
 ---
 
 # Dreams and low-control states

@@ -9,6 +9,8 @@ tags:
   - domain
   - attention
   - meditation
+  - mindfulness
+  - self-regulation
 ---
 
 # Attention and meditation

@@ -9,6 +9,8 @@ tags:
   - domain
   - polarization
   - prejudice
+  - social-identity
+  - intergroup-relations
 ---
 
 # Polarization and prejudice

@@ -17,6 +17,8 @@ This project examines placebo effects in asthma. It sits at the intersection of 
 
 The project has existing data and student thesis work, but needs additional integration and rewriting before it can become a manuscript.
 
+Main group: [[raz-lab]].
+
 ## Current status
 
 - Data have been collected.
@@ -27,4 +29,3 @@ The project has existing data and student thesis work, but needs additional inte
 
 - [[placebo-belief-and-social-psychology]]
 - [[attention-and-body-regulation]]
-

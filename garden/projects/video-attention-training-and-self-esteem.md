@@ -17,6 +17,8 @@ This project examines whether video-based attention training can produce social 
 
 The project is currently in a dormant-but-recoverable state: a poster was presented, but analyses need to be redone before the manuscript can be completed.
 
+Main group: [[dandeneau-lab]].
+
 ## Current status
 
 - Poster presented.
@@ -28,4 +30,3 @@ The project is currently in a dormant-but-recoverable state: a poster was presen
 - [[mindfulness-and-interpersonal-perception]]
 - [[attention-training-judgment-character-and-will]]
 - [[introspective-report-training]]
-

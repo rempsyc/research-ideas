@@ -9,6 +9,8 @@ tags:
   - domain
   - social-change
   - prosociality
+  - wise-interventions
+  - public-good
 ---
 
 # Social change and prosociality

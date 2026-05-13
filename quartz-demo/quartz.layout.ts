@@ -43,6 +43,7 @@ export const defaultContentPageLayout: PageLayout = {
         const folderNames: Record<string, string> = {
           domains: "Domains",
           essays: "Essays",
+          groups: "Groups",
           ideas: "Ideas",
           maps: "Maps",
           projects: "Projects",
@@ -96,6 +97,7 @@ export const defaultListPageLayout: PageLayout = {
         const folderNames: Record<string, string> = {
           domains: "Domains",
           essays: "Essays",
+          groups: "Groups",
           ideas: "Ideas",
           maps: "Maps",
           projects: "Projects",
@@ -108,5 +110,21 @@ export const defaultListPageLayout: PageLayout = {
       },
     }),
   ],
-  right: [],
+  right: [
+    Component.Graph({
+      localGraph: {
+        depth: 1,
+        scale: 1.1,
+        linkDistance: 30,
+      },
+      globalGraph: {
+        depth: -1,
+        scale: 0.9,
+        repelForce: 0.7,
+        linkDistance: 80,
+        fontSize: 0.75,
+        focusOnHover: true,
+      },
+    }),
+  ],
 }

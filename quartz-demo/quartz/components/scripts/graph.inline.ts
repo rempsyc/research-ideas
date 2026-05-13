@@ -200,6 +200,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     project: "#f58518",
     publication: "#7b2cbf",
     essay: "#b279a2",
+    group: "#2f2f2f",
     map: "#72b7b2",
     domain: "#e45756",
   }

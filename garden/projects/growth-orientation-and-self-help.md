@@ -18,6 +18,8 @@ This project family links self-help, passion, and self-determination theory. The
 
 Rather than maintain separate notes for every related manuscript, this page consolidates the scale-development and passion-for-self-help threads into one project area.
 
+Main group: [[vallerand-lab]].
+
 ## Current status
 
 - Data have been collected.
@@ -30,4 +32,3 @@ Rather than maintain separate notes for every related manuscript, this page cons
 - [[psychological-need-for-progress]]
 - [[fruitfulness-versus-productivity]]
 - [[belief-identity-and-personality]]
-

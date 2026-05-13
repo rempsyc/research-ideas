@@ -17,6 +17,8 @@ This project revisits the evidence base around nonfiction reading and psychologi
 
 The immediate work is data cleaning, recoding, and producing a first re-analysis that can become the backbone of a manuscript.
 
+Main group: [[van-bavel-lab]].
+
 ## Current status
 
 - Data cleaning and recoding are in progress.
@@ -27,4 +29,3 @@ The immediate work is data cleaning, recoding, and producing a first re-analysis
 - [[reading-as-intervention]]
 - [[narrative-transportation]]
 - [[book-interventions-and-reading-selection]]
-

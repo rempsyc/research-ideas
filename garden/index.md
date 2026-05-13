@@ -3,6 +3,12 @@ title: Research Ideas
 quartz: true
 type: map
 visibility: public
+tags:
+  - map
+  - research-garden
+  - ideas
+  - projects
+  - groups
 ---
 
 # Research Ideas
@@ -21,6 +27,7 @@ The garden is meant for students, collaborators, and curious readers who want to
 - [Projects](projects/)
 - [Publications](publications/)
 - [Essays](essays/)
+- [Groups](groups/)
 
 ## Main domains
 

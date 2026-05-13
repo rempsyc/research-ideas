@@ -18,6 +18,8 @@ This project covers manuscript work related to the easystats meta-package and ec
 
 The project is close to completion relative to many other standby manuscripts: a first draft exists, and the main remaining work is conceptual framing, a figure, and final review.
 
+Main group: [[easystats]].
+
 ## Current status
 
 - First draft exists.
@@ -26,4 +28,3 @@ The project is close to completion relative to many other standby manuscripts: a
 ## Related ideas
 
 - [[mapping-as-metacognitive-practice]]
-
