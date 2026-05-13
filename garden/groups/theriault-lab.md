@@ -15,11 +15,7 @@ tags:
 
 This is a placeholder for the future UQAR lab identity. The CV lists an incoming Assistant Professor appointment at Université du Québec à Rimouski beginning in August 2026.
 
-This page can later become the public hub for student projects, lab values, project streams, and publications based at UQAR.
-
-## Related projects
-
-No project is assigned here yet.
+This page can become the hub for student projects, lab values, project streams, and publications based at UQAR.
 
 ## Related publications
 

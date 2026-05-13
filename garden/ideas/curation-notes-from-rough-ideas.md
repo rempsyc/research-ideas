@@ -20,7 +20,7 @@ Included in the Quartz garden:
 Held out of the Quartz garden:
 
 - Aphorisms and book-manuscript fragments.
-- Private-sounding reflections.
+- Personal reflections.
 - Citation reminders that need bibliographic cleanup before becoming public research notes.
 - Broad philosophical statements that do not yet imply a study, measure, or research question.
 

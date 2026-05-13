@@ -16,8 +16,6 @@ tags:
 
 This project supports the Missing Majority in Behavioural Science Data Dashboard, a software and dissemination effort focused on visibility, representation, and evidence gaps in behavioral science.
 
-The main public-facing output to add here later is a concise note linking the dashboard, the associated paper, and the broader research-software context.
-
 Main group: [[busara-center]].
 
 Public output: [Missing Majority in Behavioral Science Dashboard](https://remi-theriault.com/dashboards/missing_majority).

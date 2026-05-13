@@ -17,6 +17,11 @@ tags:
 
 This domain gathers notes about attentional training, meditation, mind wandering, thought suppression, perception, creativity, and self-regulation.
 
+Current projects:
+
+- [[loving-kindness-meditation-intervention]]
+- [[sam-resilience-socioeconomic-contexts]]
+
 Starting points:
 
 - [[introspective-report-training]]

@@ -12,9 +12,7 @@ tags:
 
 # Publications
 
-This section holds public notes for selected published papers, software papers, and other research outputs. Preprints and in-progress manuscripts live under [[index|Current projects]] until they are published.
-
-The long-term value is to connect published work back to the ideas and projects that led to it. This may make the garden useful not only as a public archive, but as a map of how research programs develop over time.
+Published and accepted outputs, connected back to the projects, groups, and ideas that shaped them.
 
 ## Selected publications
 

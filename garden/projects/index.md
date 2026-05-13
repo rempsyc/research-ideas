@@ -12,7 +12,7 @@ tags:
 
 # Current projects
 
-This section holds public, curated project notes. The goal is consolidation: one canonical note per project family, with links to ideas, preprints, preregistrations, software, or publications added when they become publicly useful.
+One note per project family, with links to ideas, preregistrations, software, and publications.
 
 Project notes link to one main group where possible. See [Research groups](../groups/) for the lab and collaboration map.
 
@@ -22,6 +22,7 @@ Project notes link to one main group where possible. See [Research groups](../gr
 - [[loving-kindness-meditation-intervention]]
 - [[nonfiction-meta-reanalysis]]
 - [[missing-majority-dashboard]]
+- [[sam-resilience-socioeconomic-contexts]]
 - [[report-r-package]]
 - [[easystats-meta-package]]
 - [[team-science-reproducibility-and-ai]]

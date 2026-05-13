@@ -11,7 +11,7 @@ This folder is a lightweight Markdown note area for future Quartz-compatible or 
 
 Quartz is the main published output. Notes in this folder are plain Markdown and may use wiki-style links such as `[[reading-as-intervention]]`.
 
-All content committed here should be public-safe. Private or raw ideas should remain outside this repository.
+Commit only material that belongs in the public garden.
 
 ## Quartz publishing
 

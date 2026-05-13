@@ -16,7 +16,7 @@ tags:
 
 This project area consolidates collaborative work around reproducibility, open science, and AI-accelerated research practices.
 
-The goal of this page is not to duplicate every team-science manuscript, but to provide one public hub for collaborations that connect to research transparency, large-scale evidence, and the changing role of AI in scholarship.
+This page is a hub for collaborations that connect research transparency, large-scale evidence, and the changing role of AI in scholarship.
 
 Main group: [[institute-for-replication]].
 

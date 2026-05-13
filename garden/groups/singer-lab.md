@@ -12,9 +12,5 @@ tags:
 
 # Singer Lab
 
-The Singer Lab is included as a past research context. There are no current public project notes assigned here.
-
-## Related projects
-
-No project is assigned here yet.
+The Singer Lab is included as a past research context.
 

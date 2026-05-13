@@ -25,9 +25,9 @@ See [[book-interventions-and-reading-selection]], [[nonfiction-meta-reanalysis]]
 
 ## Meditation, self-help, and internalized change
 
-Meditation and self-help interventions may matter most when they shift automatic tendencies, self-regulation, identity, or social behavior in durable ways.
+Meditation and self-help interventions may matter most when they shift automatic tendencies, self-regulation, identity, stress, or social behavior in durable ways.
 
-See [[loving-kindness-meditation-intervention]], [[growth-orientation-and-self-help]], and [[effortless-prosociality-and-cognitive-habits]].
+See [[loving-kindness-meditation-intervention]], [[sam-resilience-socioeconomic-contexts]], [[growth-orientation-and-self-help]], and [[effortless-prosociality-and-cognitive-habits]].
 
 ## Identity-based polarization interventions
 

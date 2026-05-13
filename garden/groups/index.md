@@ -12,9 +12,7 @@ tags:
 
 # Research groups
 
-These pages represent labs, teams, institutes, and software communities connected to project notes in the garden.
-
-The links indicate the main project home or lead group for a public project note, not necessarily formal affiliation or endorsement.
+Labs, teams, institutes, and software communities connected to projects and publications.
 
 ## Groups
 
@@ -26,5 +24,6 @@ The links indicate the main project home or lead group for a public project note
 - [[psychological-science-accelerator]]
 - [[raz-lab]]
 - [[singer-lab]]
+- [[sparacio-lab]]
 - [[vallerand-lab]]
 - [[van-bavel-lab]]

@@ -13,93 +13,36 @@ tags:
 
 # Research Ideas
 
-This is a public research idea garden maintained by [Rémi Thériault](https://remi-theriault.com/). It archives short, public research notes, study ideas, open questions, methods, and conceptual links.
+This is a research garden maintained by [Rémi Thériault](https://remi-theriault.com/). It connects ideas, projects, publications, essays, domains, and lab collaborations.
 
-The garden is meant for students, collaborators, and curious readers who want to see ideas while they are still forming. Private or raw ideas live elsewhere.
+It is meant for students, collaborators, and curious readers who want to see how ideas develop over time.
 
-## Start here
+## How to navigate
 
-- [[roadmap]]
-- [[active-project-areas]]
-- [[for-students-and-collaborators]]
-- [[methods-and-measures]]
-- [Ideas](ideas/)
-- [Projects](projects/)
-- [Publications](publications/)
-- [Essays](essays/)
-- [Groups](groups/)
+Use the Explorer on the left to browse the main folders:
 
-## Main domains
+- Ideas are early concepts, questions, or possible studies.
+- Projects are active or paused research programs.
+- Publications are published or accepted outputs.
+- Groups are labs, teams, institutes, or software communities.
+- Domains and maps are higher-level organizing pages.
 
-- [[attention-and-meditation]]
-- [[dreams-and-low-control-states]]
-- [[self-identity-and-agency]]
-- [[social-change-and-prosociality]]
-- [[polarization-and-prejudice]]
+Use Search for a keyword, method, project, or construct.
 
-## Original seed notes
+## How to use the graph
 
-- [[reading-as-intervention]]
-- [[narrative-transportation]]
-- [[common-ingroup-identity]]
+The graph in the top-right shows nearby connections for the page you are reading. Click the small network icon to open the larger graph. You can zoom and pan; labels become easier to read as you zoom in.
 
-## Current project hubs
+Colors indicate the kind of node: idea, project, publication, essay, group, map, domain, or tag. Links show explicit connections between notes, not a complete theory of everything.
 
-- [[book-interventions-and-reading-selection]]
-- [[loving-kindness-meditation-intervention]]
-- [[nonfiction-meta-reanalysis]]
-- [[growth-orientation-and-self-help]]
-- [[missing-majority-dashboard]]
-- [[team-science-reproducibility-and-ai]]
+## Main layers
 
-## Curated rough ideas
+- [[active-project-areas]] gives a high-level view of current project families.
+- [[attention-and-meditation]], [[self-identity-and-agency]], [[social-change-and-prosociality]], [[polarization-and-prejudice]], and [[dreams-and-low-control-states]] organize the main domains.
+- [Projects](projects/) connects ongoing work to groups, outputs, and idea notes.
+- [Publications](publications/) connects published work back to the projects and ideas that shaped it.
+- [Groups](groups/) shows the lab and collaboration map.
 
-These notes came from an initial backlog of rough, long-running research ideas. They have been rewritten as public-facing, studyable research notes rather than preserved as raw fragments.
+## For collaborators and students
 
-Attention, introspection, and meditation:
-
-- [[introspective-report-training]]
-- [[breath-focus-and-creativity]]
-- [[meditation-and-thought-suppression]]
-- [[mind-wandering-and-self-regulation-resources]]
-- [[meditation-magic-and-misdirection]]
-- [[mindfulness-and-interpersonal-perception]]
-- [[gaze-aversion-and-recall-performance]]
-- [[attention-training-judgment-character-and-will]]
-
-Embodiment and self-regulation:
-
-- [[attention-and-body-regulation]]
-- [[voluntary-control-of-sneezing]]
-- [[sleep-paralysis-lucid-dreaming-and-movement]]
-
-Agency, motivation, and identity:
-
-- [[mapping-as-metacognitive-practice]]
-- [[fruitfulness-versus-productivity]]
-- [[agency-guilt-and-positive-psychology]]
-- [[psychological-need-for-progress]]
-- [[agency-reward-and-motivation]]
-- [[control-of-experience-and-self-determination-theory]]
-- [[belief-identity-and-personality]]
-- [[self-identification-to-thoughts]]
-- [[placebo-belief-and-social-psychology]]
-
-Social change and prosociality:
-
-- [[identity-expansion-and-social-change]]
-- [[values-change-and-social-transformation]]
-- [[wise-interventions-and-small-effects]]
-- [[identity-based-voter-turnout]]
-- [[social-norms-and-environmental-behavior]]
-- [[greenery-health-and-crime]]
-- [[moral-nudges-and-prosociality]]
-- [[effortless-prosociality-and-cognitive-habits]]
-- [[self-control-and-prejudice]]
-- [[dreams-as-low-control-observation]]
-- [[dream-behavior-and-waking-behavior]]
-- [[meditation-and-bystander-effect]]
-
-Thought suppression and mind wandering:
-
-- [[reversed-white-bear-effect]]
+Start with [[for-students-and-collaborators]] if you are looking for possible entry points.

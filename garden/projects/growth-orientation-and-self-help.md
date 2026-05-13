@@ -10,6 +10,8 @@ tags:
   - self-determination-theory
   - passion
   - scale-development
+  - needs
+  - preregistration
 ---
 
 # Growth orientation and self-help
@@ -20,11 +22,23 @@ Rather than maintain separate notes for every related manuscript, this page cons
 
 Main group: [[vallerand-lab]].
 
+## Public materials
+
+- Preregistration: [Needs Orientations and Passion for Self-Help](https://osf.io/pxng5/overview)
+- Preregistration: [Validating the Needs Orientation Scale: Growth vs. Deficit-Reduction](https://osf.io/wjxa4/overview)
+
+## Project threads
+
+The consolidated project currently has two public preregistered threads:
+
+- Passion for self-help: testing whether a growth orientation toward self-help is healthier than a deficit-reduction orientation.
+- Needs Orientation Scale: validating a growth versus deficit-reduction orientation measure within a self-determination theory context.
+
 ## Current status
 
 - Data have been collected.
 - The project is paused at the analysis and interpretation stage.
-- A public-facing version should eventually clarify whether this becomes one manuscript, multiple manuscripts, or a broader program of work.
+- The project may become one manuscript, multiple manuscripts, or a broader program of work.
 
 ## Related ideas
 
