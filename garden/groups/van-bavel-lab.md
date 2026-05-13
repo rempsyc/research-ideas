@@ -21,3 +21,6 @@ The Van Bavel Lab at NYU is the main group context for projects connected to boo
 - [[book-interventions-and-reading-selection]]
 - [[nonfiction-meta-reanalysis]]
 
+## Related publications
+
+- [[identity-based-polarization-and-public-health]]

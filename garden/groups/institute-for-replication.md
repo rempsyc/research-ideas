@@ -19,3 +19,8 @@ The Institute for Replication, or I4R, is the main group context for projects ar
 
 - [[team-science-reproducibility-and-ai]]
 
+## Related publications
+
+- [[ai-assisted-reproducibility-teams]]
+- [[reproducibility-and-robustness-social-science]]
+- [[multiverse-analyses-tutorial]]

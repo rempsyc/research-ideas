@@ -20,6 +20,10 @@ The main public-facing output to add here later is a concise note linking the da
 
 Main group: [[busara-center]].
 
+Public output: [Missing Majority in Behavioral Science Dashboard](https://remi-theriault.com/dashboards/missing_majority).
+
+Related output: [[missing-majority-open-science-manifesto]].
+
 ## Current status
 
 - Dashboard development is active.

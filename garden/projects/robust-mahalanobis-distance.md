@@ -19,6 +19,8 @@ The project appears to be technically advanced but writing-limited: simulations 
 
 Main group: [[easystats]].
 
+Related output: [[outliers-easystats]].
+
 ## Current status
 
 - Simulations are done.

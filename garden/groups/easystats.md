@@ -21,3 +21,8 @@ easystats is the main software-community context for the R package projects in t
 - [[report-r-package]]
 - [[easystats-meta-package]]
 - [[robust-mahalanobis-distance]]
+
+## Related publications
+
+- [[modelbased-joss]]
+- [[outliers-easystats]]

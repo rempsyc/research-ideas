@@ -21,3 +21,6 @@ The Dandeneau Lab at UQAM is the main group context for projects connected to at
 - [[loving-kindness-meditation-intervention]]
 - [[video-attention-training-and-self-esteem]]
 
+## Related publications
+
+- [[mindfulness-aggressive-behaviour]]

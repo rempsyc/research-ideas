@@ -13,7 +13,7 @@ tags:
 
 # Thériault Lab
 
-This is a placeholder for the future UQAR lab identity.
+This is a placeholder for the future UQAR lab identity. The CV lists an incoming Assistant Professor appointment at Université du Québec à Rimouski beginning in August 2026.
 
 This page can later become the public hub for student projects, lab values, project streams, and publications based at UQAR.
 
@@ -21,3 +21,8 @@ This page can later become the public hub for student projects, lab values, proj
 
 No project is assigned here yet.
 
+## Related publications
+
+- [[open-science-in-psychology]]
+- [[lavaanextra-joss]]
+- [[rempsyc-joss]]

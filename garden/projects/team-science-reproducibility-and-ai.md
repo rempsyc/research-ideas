@@ -26,6 +26,12 @@ Main group: [[institute-for-replication]].
 - Some projects are waiting on coauthors; others require final conceptual or writing contributions.
 - Public links can be added later when preprints, publications, or project pages are ready.
 
+## Related outputs
+
+- [[ai-assisted-reproducibility-teams]]
+- [[reproducibility-and-robustness-social-science]]
+- [[multiverse-analyses-tutorial]]
+
 ## Related ideas
 
 - [[wise-interventions-and-small-effects]]

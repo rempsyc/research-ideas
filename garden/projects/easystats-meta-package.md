@@ -20,6 +20,8 @@ The project is close to completion relative to many other standby manuscripts: a
 
 Main group: [[easystats]].
 
+Related output: [[modelbased-joss]].
+
 ## Current status
 
 - First draft exists.

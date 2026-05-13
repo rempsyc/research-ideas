@@ -20,6 +20,8 @@ The current task is to reshape the thesis material into a tighter article format
 
 Main group: [[dandeneau-lab]].
 
+Current preprint: [Is the Mind More Powerful Than the Heart?](https://doi.org/10.31234/osf.io/x4p9v_v2)
+
 ## Current status
 
 - Thesis-based manuscript in preparation.

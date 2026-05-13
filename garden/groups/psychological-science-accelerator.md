@@ -19,3 +19,6 @@ The Psychological Science Accelerator, or PSA, is the group context for SPAML an
 
 No project is assigned here yet.
 
+## Related publications
+
+- [[semantic-priming-many-languages]]

@@ -21,3 +21,7 @@ The Raz Lab at McGill is the main group context for projects connected to placeb
 - [[asthma-placebo]]
 - [[rubber-hand-eeg]]
 
+## Related publications
+
+- [[rubber-hand-illusion-attention-embodiment]]
+- [[body-swapping-empathy]]

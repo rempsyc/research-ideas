@@ -52,7 +52,8 @@ Use `type` to distinguish layers:
 
 - `type: idea` for early-stage and developing ideas.
 - `type: project` for current projects, studies, materials, and collaborations.
-- `type: publication` for published papers, preprints, datasets, talks, and outputs.
+- `type: publication` for published or accepted papers, software papers, datasets, talks, and outputs.
+- Preprint-only manuscripts should usually remain `type: project` until publication.
 - `type: essay` for blog posts, public reflections, and conceptual writing.
 - `type: map` for orientation pages.
 - `type: domain` for topical entry points.

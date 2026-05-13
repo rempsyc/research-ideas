@@ -19,3 +19,6 @@ Busara Center is the main group context for the Missing Majority Dashboard work.
 
 - [[missing-majority-dashboard]]
 
+## Related publications
+
+- [[missing-majority-open-science-manifesto]]

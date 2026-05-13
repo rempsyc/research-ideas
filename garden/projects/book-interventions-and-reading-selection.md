@@ -21,6 +21,8 @@ Current work includes refining the study design, consulting experts on book sele
 
 Main group: [[van-bavel-lab]].
 
+Public framing from CV: "Reading books changes lives: The effects of popular psychology books on prosociality and polarization."
+
 ## Current status
 
 - IRB approval and amendments are in progress.
